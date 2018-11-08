@@ -11,3 +11,9 @@
 ### Reducers 结构
 
 ### connect 原理
+
+### 相关资料
+
+* [https://reactjs.org/](https://reactjs.org/)
+* [https://redux.js.org/](https://redux.js.org/)
+* [https://react-redux.js.org/](https://react-redux.js.org/)
