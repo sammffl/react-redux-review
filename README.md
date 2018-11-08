@@ -1,10 +1,12 @@
 # 解析 react redux
 
-### provider
+### redux 原理
 
-### Redux createStore
+### provider 作用
 
-### Redux combineReducers
+### Redux createStore 如何创建store
+
+### Redux combineReducers 合并所有的Reducers
 
 ### Reducers 结构
 
