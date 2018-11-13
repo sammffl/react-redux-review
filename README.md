@@ -17,3 +17,4 @@
 * [https://reactjs.org/](https://reactjs.org/)
 * [https://redux.js.org/](https://redux.js.org/)
 * [https://react-redux.js.org/](https://react-redux.js.org/)
+* [getting-started-with-redux](https://egghead.io/courses/getting-started-with-redux)
