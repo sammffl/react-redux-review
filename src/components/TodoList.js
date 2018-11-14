@@ -3,7 +3,7 @@ import { connect } from "react-redux";
 import Todo from "./Todo";
 // import { getTodos } from "../redux/selectors";
 import { getTodosByVisibilityFilter } from "../redux/selectors";
-import { VISIBILITY_FILTERS } from "../constants";
+// import { VISIBILITY_FILTERS } from "../constants";
 
 const TodoList = ({ todos }) => (
   <ul className="todo-list">

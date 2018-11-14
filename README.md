@@ -2,13 +2,13 @@
 
 ### redux 原理
 
+* [原理说明](./doc/redux.md)
+* [createStore方法创建store](./doc/createStore.md)
+* [combineReducers方法合并多个reducer](./doc/combineReducers.md)
+* [applyMiddleware中间件创建store](./doc/applyMiddleware.md)
+* [bindActionCreator创建可直接dispatch的action](./doc/bindActionCreator.md)
+
 ### provider 作用
-
-### Redux createStore 如何创建store
-
-### Redux combineReducers 合并所有的Reducers
-
-### Reducers 结构
 
 ### connect 原理
 
